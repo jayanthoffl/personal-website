@@ -2,6 +2,23 @@ html{
   font-size: 16px;
 }
 
+.card-2 a{
+  text-decoration: none;
+  color: white;
+}
+
+.card-2 a:hover{
+  color:  #2f2f2f;
+}
+
+a{
+  text-decoration: none;
+  color:  #2f2f2f;
+}
+a:hover{
+  color: white;
+}
+
 
 body {
   background: #fff8f0;
